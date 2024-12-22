@@ -10,9 +10,9 @@ b- Github is a cloud-based hosting service that lets you manage Git repositries.
 
 
 List 3 other github alternatives
-a-Gitlab
-b-Bitbucket
-c-Gitea
+a-Gitlab.
+b-Bitbucket.
+c-Gitea.
 
 Explain the difference between git fetch and git pull,
 a- git pull copies changes from repository directly into your working directory, while git fetchdoes not.
