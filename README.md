@@ -3,7 +3,7 @@ Explain version control.--- Version control is a system or practice that helps t
 It enables multiple people to collaborate on projects, keeps a history of modifications, and helps manage different 
 versions of a document, codebase, or file.
 
-Explain difference between git and github
+Explain difference between git and github.
 a- Git is a version control system that lets you manage and keep track of your source code. 
 while
 b- Github is a cloud-based hosting service that lets you manage Git repositries.
