@@ -21,5 +21,5 @@ b- git fetch command only copies changes into your local Git repo, the git pull 
 Explain in simple terms git rebase and the command for it 
 a- the git rebase command allows you to easily change a series of commits, modifying the history of your repository.
 
-Explain in simple terms git cherry-pick and the command for it 
+Explain in simple terms git cherry-pick and the command for it.
 a- cherry picking is the act of picking a commit from a branch and applying it to another.
